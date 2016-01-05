@@ -1,0 +1,44 @@
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=0
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=3
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=2
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+update goods set is_delete='0' where goods_id=3
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=3
+set names utf8
+select * from goods where is_delete=1

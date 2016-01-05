@@ -1,0 +1,18 @@
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+show columns from goods

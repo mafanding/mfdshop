@@ -1,0 +1,17 @@
+select * from cate
+select *from cate where cate_id=14
+select * from cate
+select parent_id from cate where cate_id=14
+select parent_id from cate where cate_id=6
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('3','5555','5')
+select * from cate
+select * from cate
+insert into cate (cate_name,intro) values ('5','55')
+select * from cate
+select *from cate where cate_id=17
+select * from cate
+select parent_id from cate where cate_id=18
+update cate set parent_id='18',cate_name='5555',intro='5',cate_id='17'where cate_id=17
+select * from cate

@@ -1,0 +1,22 @@
+select * from cate
+select * from cate where parent_id=15
+delete from cate where cate_id=15
+select * from cate
+select * from cate
+select * from cate where parent_id=6
+select * from cate
+select * from cate
+select * from cate where parent_id=6
+select * from cate
+select * from cate
+select * from cate where parent_id=6
+select * from cate
+select * from cate
+select * from cate where parent_id=6
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+select * from cate where parent_id=6
+select * from cate

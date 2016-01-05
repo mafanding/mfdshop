@@ -1,0 +1,96 @@
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=4
+select parent_id from cate where cate_id=1
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=4
+select parent_id from cate where cate_id=1
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=5
+select parent_id from cate where cate_id=1
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=2
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=7
+select parent_id from cate where cate_id=2
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=7
+select parent_id from cate where cate_id=2
+set names utf8
+select * from cate
+select parent_id from cate where cate_id=5
+select parent_id from cate where cate_id=1
+set names utf8
+select * from cate
+select * from cate where cate_id=5
+select * from cate where cate_id=1
+set names utf8
+select * from cate
+select * from cate where cate_id=5
+select * from cate where cate_id=1
+set names utf8
+select * from cate
+select * from cate where cate_id=2
+set names utf8
+select * from cate
+select * from cate where cate_id=7
+select * from cate where cate_id=2
+set names utf8
+select * from cate
+set names utf8
+show columns from cate
+insert into cate (cate_id,cate_name,intro,parent_id) values ('','40岁男休闲','40岁男休闲','4')
+set names utf8
+select * from cate
+select * from cate where cate_id=7
+select * from cate where cate_id=2
+set names utf8
+select * from cate
+select * from cate where cate_id=11
+select * from cate where cate_id=4
+select * from cate where cate_id=1
+set names utf8
+select * from cate
+select * from cate where cate_id=11
+select * from cate where cate_id=4
+select * from cate where cate_id=1
+set names utf8
+select * from cate
+select * from cate where cate_id=11
+select * from cate where cate_id=4
+select * from cate where cate_id=1

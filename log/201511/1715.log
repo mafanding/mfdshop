@@ -1,0 +1,40 @@
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','1111111','6','','牛逼','1111','111111','1','','1','商品简单描述：','怒i发货施工','','','','1','','1','1','1','1447743793','')
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','1fg3e','6','','每个发的','6556','666666','1','','1','你放过','呢避风港','','','','1','','1','1','','1447743953','')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (cate_name,intro) values ('休闲','休闲')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (cate_name,intro) values ('运动','运动')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (cate_name,intro) values ('户外','户外')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (parent_id,cate_name,intro) values ('1','男休闲','男休闲')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (parent_id,cate_name,intro) values ('1','女休闲','女休闲')
+set names utf8
+select * from cate

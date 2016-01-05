@@ -1,0 +1,11 @@
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+delete from shopcart where goods_id='2' and user_id='1'
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+delete from shopcart where goods_id='2' and user_id='1'

@@ -1,0 +1,54 @@
+select * from cate
+select * from cate
+insert into cate (cate_name,intro) values ('3333','3333')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('6','3','333')
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+delete from cate where cate_id=7
+select * from cate
+select * from cate
+delete from cate where cate_id=5
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('3','2','2')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('6','3','3')
+select * from cate
+select * from cate
+delete from cate where cate_id=9
+select * from cate
+delete from cate where cate_id=8
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('3','2','2')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('6','3','3')
+select * from cate
+select * from cate
+delete from cate where cate_id=11
+select * from cate
+delete from cate where cate_id=10
+select * from cate
+delete from cate where cate_id=4
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('2','11111','1')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('3','2','2')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('6','3','3')
+select * from cate
+select * from cate
+insert into cate (cate_name,intro) values ('4444','444')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('15','4','4')
+select * from cate

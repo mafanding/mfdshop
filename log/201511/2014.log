@@ -1,0 +1,35 @@
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','d6382e3c486e17d','6','','78988j','32','43','1','','1','商品简单描述','甲方看得开打开','','','/','1','','1','1','1','1447999639','')
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','fa35729181eb86a','0','','稳定','555','5555555','1','','0.122','商品简单描','官方店','','','/','1','','','','1','1447999890','')
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','da39b909bf04299','11','','比特币','4','55','1','','2','商品简单','焕发出','','','data/png/151120/1660eda39b.png','1','','1','','','1448001300','')

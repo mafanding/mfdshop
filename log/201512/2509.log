@@ -1,0 +1,42 @@
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1451007479' where username='test'
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1451007544' where username='test'
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id
+set names utf8
+select * from goods where goods_id=1
+select * from cate where cate_id=6
+select * from cate where cate_id=3
+set names utf8
+select * from user where user_id='1'
+select a.goods_id,a.num,b.shop_price,b.goods_name,b.shop_price,b.market_price,b.thumb_img from shopcart as a,goods as b where a.user_id='1' and a.goods_id=b.goods_id

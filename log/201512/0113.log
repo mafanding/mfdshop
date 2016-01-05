@@ -1,0 +1,27 @@
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test','test@163.com','96e79218965eb72c92a549dd5a330112','1448948979','')

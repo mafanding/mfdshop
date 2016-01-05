@@ -1,0 +1,11 @@
+insert into cate (cate_name,intro) values ('2','2')
+select title,no from web_kh
+insert into cate (cate_name,intro) values ('1111','111')
+select title,no from web_kh
+select title,no from web_kh
+select title,no from web_kh
+select title,no from web_kh
+select title,no from web_kh
+select title,no from web_kh
+select title,no from web_kh
+insert into cate (cate_name,intro) values ('2222','22222')

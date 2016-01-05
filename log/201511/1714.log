@@ -1,0 +1,39 @@
+show columns from goods
+show columns from goods
+select * from cate
+select * from cate
+insert into cate (cate_name,intro) values ('6','6')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('19','66','666')
+select * from cate
+select *from cate where cate_id=20
+select * from cate
+select parent_id from cate where cate_id=19
+update cate set parent_id='19',cate_name='66',intro='6666',cate_id='20'where cate_id=20
+select * from cate
+select * from cate where parent_id=20
+delete from cate where cate_id=20
+select * from cate
+select * from cate where parent_id=19
+delete from cate where cate_id=19
+select * from cate
+show columns from goods
+show columns from goods
+show columns from goods
+show columns from goods
+show columns from goods
+show columns from goods
+show columns from goods
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('0','123456','6','','123456','12345','12345678','1','','1','商品简单描述：','添加新商品','','','','1','','1','1','1','1447742463','')
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('0','111111','6','','111111','11111','111111111','1','','1','商品简单描述','通用信息','','','','1','','1','1','1','1447742663','')
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('0','11111111','11','','11111','1111','11111111','1','','1','商品简单描述：','添加新商品','','','','1','','1','1','1','1447742849','')
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods

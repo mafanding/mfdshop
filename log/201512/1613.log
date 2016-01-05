@@ -1,0 +1,308 @@
+set names utf8
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=15
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=15
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=12
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=13
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=13
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=14
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where goods_id=18
+select * from cate where cate_id=0
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=16
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10
+set names utf8
+select * from cate
+select * from cate where cate_id=10

@@ -1,0 +1,32 @@
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1450337537' where username='test'
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1450337598' where username='test'
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1450337697' where username='test'
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where goods_id=12
+select * from cate where cate_id=10
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5

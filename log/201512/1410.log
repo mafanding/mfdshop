@@ -1,0 +1,114 @@
+set names utf8
+select * from cate
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+show columns from cate
+insert into cate (cate_id,cate_name,intro,parent_id) values ('','杂货','杂货','0')
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','fe4992727c68d5e','10','','沙发','499','999','1','','20','沙发','沙发','data/jpeg/151214/thumb_4844ffe499.jpeg','data/jpeg/151214/goods_4844ffe499.jpeg','data/jpeg/151214/4844ffe499.jpeg','1','','1','1','1','1450059151','')
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','0c3285edea9946b','10','','手表','1000','2000','1','','0.1','手表','手表','data/jpeg/151214/thumb_345b00c328.jpeg','data/jpeg/151214/goods_345b00c328.jpeg','data/jpeg/151214/345b00c328.jpeg','1','','1','1','1','1450059186','')
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','7345466869842b6','10','','手机','998','1300','1','','0.1','手机','手机','data/jpeg/151214/thumb_d043373454.jpeg','data/jpeg/151214/goods_d043373454.jpeg','data/jpeg/151214/d043373454.jpeg','1','','1','1','1','1450059218','')
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','df8220ac67dec99','10','','水杯','10','50','1','','0.2','水杯','水杯','data/jpeg/151214/thumb_94137df822.jpeg','data/jpeg/151214/goods_94137df822.jpeg','data/jpeg/151214/94137df822.jpeg','1','','1','1','1','1450059314','')
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','8803cddf276c47b','10','','洗衣机','999','1299','1','','10','洗衣机','洗衣机','data/jpeg/151214/thumb_0371d8803c.jpeg','data/jpeg/151214/goods_0371d8803c.jpeg','data/jpeg/151214/0371d8803c.jpeg','1','','','1','1','1450059344','')
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','6dad6cb79a40c0f','10','','相机','9999','29999','1','','0.5','相机','相机','data/jpeg/151214/thumb_04d456dad6.jpeg','data/jpeg/151214/goods_04d456dad6.jpeg','data/jpeg/151214/04d456dad6.jpeg','1','','','1','1','1450059378','')
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','2d1141278fea38e','0','','鞋子','299','499','1','','0.1','鞋子','鞋子','data/jpeg/151214/thumb_5fa6e2d114.jpeg','data/jpeg/151214/goods_5fa6e2d114.jpeg','data/jpeg/151214/5fa6e2d114.jpeg','1','','','1','1','1450059406','')
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=4
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=5
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=6
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=7
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+update goods set is_delete='1' where goods_id=11
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_on_sale=1 and is_delete=0 and is_new=1 order by rand() limit 5
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from cate
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from cate

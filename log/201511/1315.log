@@ -1,0 +1,13 @@
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('2','11','111')
+select * from cate
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('3','2','222')
+select * from cate

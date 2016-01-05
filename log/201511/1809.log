@@ -1,0 +1,84 @@
+set names utf8
+select * from cate
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','11111111','6','','11111','111','1111111','1','','1','商品简单描述','囧发到您灌灌灌灌','','','','1','','1','','','1447809701','')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+show columns from cate
+set names utf8
+show columns from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+show columns from cate
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+show columns from cate
+insert into cate (cate_id,cate_name,intro,parent_id) values ('','正装','正装','0')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=5
+select * from cate
+set names utf8
+show columns from cate
+select parent_id from cate where cate_id=8
+update cate set cate_id='5',cate_name='女休闲',intro='女休闲',parent_id='8'where cate_id=5
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=5
+select * from cate
+set names utf8
+show columns from cate
+select parent_id from cate where cate_id=1
+update cate set cate_id='5',cate_name='女休闲',intro='女休闲',parent_id='1'where cate_id=5
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+show columns from cate
+insert into cate (cate_id,cate_name,intro,parent_id) values ('','女士正装','女士正装','8')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=4
+select * from cate
+set names utf8
+show columns from cate
+select parent_id from cate where cate_id=8
+update cate set cate_id='4',cate_name='男休闲',intro='男休闲',parent_id='8'where cate_id=4
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=9
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=4
+select * from cate
+set names utf8
+show columns from cate
+select parent_id from cate where cate_id=1
+update cate set cate_id='4',cate_name='男休闲',intro='男休闲',parent_id='1'where cate_id=4
+set names utf8
+select * from cate

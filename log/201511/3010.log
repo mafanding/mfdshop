@@ -1,0 +1,40 @@
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=0
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','3ba69da6b37e8e9','0','','掉滴哦啊','2','23','1','','3','品简单描述：	','xiangxi ','data/jpeg/151130/thumb_dc7173ba69.jpeg','data/jpeg/151130/goods_dc7173ba69.jpeg','data/jpeg/151130/dc7173ba69.jpeg','1','','','','','1448850929','')
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','74205fa082482e6','0','','掉滴哦啊1','2','23','1','','3','品简单描述：	','xiangxi ','data/jpeg/151130/thumb_d524f74205.jpeg','data/jpeg/151130/goods_d524f74205.jpeg','data/jpeg/151130/d524f74205.jpeg','1','','','','','1448851136','')
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','14cdfc39f9dc175','0','','掉滴哦啊1','2','23','1','','3','品简单描述：	','xiangxi ','data/jpeg/151130/thumb_0e6b214cdf.jpeg','data/jpeg/151130/goods_0e6b214cdf.jpeg','data/jpeg/151130/0e6b214cdf.jpeg','1','','','','','1448851476','')
+set names utf8
+show columns from goods
+set names utf8
+show columns from goods
+insert into goods (goods_id,goods_sn,cate_id,brand_id,goods_name,shop_price,market_price,goods_number,click_count,goods_weight,goods_brief,goods_desc,thumb_img,goods_img,ori_img,is_on_sale,is_delete,is_best,is_new,is_hot,add_time,last_update) values ('','d5a18cdc356f5c4','0','','掉滴哦啊','2','23','1','','3','品简单描述：	','xiangxi ','data/jpeg/151130/thumb_2aef6d5a18.jpeg','data/jpeg/151130/goods_2aef6d5a18.jpeg','data/jpeg/151130/2aef6d5a18.jpeg','1','','','','','1448851664','')

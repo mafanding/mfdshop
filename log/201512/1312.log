@@ -1,0 +1,18 @@
+set names utf8
+select * from user where username='test1' and password='e10adc3949ba59abbe56e057f20f883e'
+set names utf8
+select * from user where username='test1' and password='e10adc3949ba59abbe56e057f20f883e'
+set names utf8
+select * from user where username='test1' and password='e10adc3949ba59abbe56e057f20f883e'
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1449980234' username='test'
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1449980407' username='test'
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1449980498' where username='test'
+set names utf8
+select * from user where username='test' and password='96e79218965eb72c92a549dd5a330112'
+update user set lastlogin='1449981775' where username='test'

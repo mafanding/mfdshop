@@ -1,0 +1,21 @@
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449465579','')
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449465616','')
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449465814','')
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449465908','')
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449465964','')
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449466032','')
+set names utf8
+show columns from user
+insert into user (user_id,username,email,password,regtime,lastlogin) values ('','test1','test1@163.com','827ccb0eea8a706c4c34a16891f84e7b','1449466074','')

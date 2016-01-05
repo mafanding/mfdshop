@@ -1,0 +1,6 @@
+set names utf8
+select * from goods
+set names utf8
+select * from goods where is_delete=1
+set names utf8
+select * from goods where is_delete=0

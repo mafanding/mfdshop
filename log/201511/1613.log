@@ -1,0 +1,31 @@
+select * from cate
+select *from cate where cate_id=12
+select * from cate
+select * from cate
+select *from cate where cate_id=2
+select * from cate
+select * from cate
+select *from cate where cate_id=15
+select * from cate
+select * from cate
+select *from cate where cate_id=16
+select * from cate
+insert into cate (parent_id,cate_name,intro) values ('15','4','4')
+select * from cate
+select *from cate where cate_id=3
+select * from cate
+select * from cate
+delete from cate where cate_id=17
+select * from cate
+select *from cate where cate_id=16
+select * from cate
+select * from cate
+select * from cate
+select *from cate where cate_id=14
+select * from cate
+update cate set parent_id='6',cate_name='3',intro='33',cate_id='14'where cate_id=14
+select * from cate
+select *from cate where cate_id=14
+select * from cate
+update cate set parent_id='6',cate_name='3',intro='333',cate_id='14'where cate_id=14
+select * from cate

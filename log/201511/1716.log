@@ -1,0 +1,31 @@
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (parent_id,cate_name,intro) values ('3','男士户外','男士户外')
+set names utf8
+select * from cate
+set names utf8
+select * from cate
+set names utf8
+insert into cate (parent_id,cate_name,intro) values ('2','女士运动','女士运动')
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=5
+select * from cate
+set names utf8
+select parent_id from cate where cate_id=4
+select parent_id from cate where cate_id=1
+update cate set parent_id='4',cate_name='女休闲',intro='女休闲',cate_id='5'where cate_id=5
+set names utf8
+select * from cate
+set names utf8
+select *from cate where cate_id=5
+select * from cate
+set names utf8
+select parent_id from cate where cate_id=1
+update cate set parent_id='1',cate_name='女休闲',intro='女休闲',cate_id='5'where cate_id=5
+set names utf8
+select * from cate

@@ -1,0 +1,11 @@
+select * from cate
+select *from cate where cate_id=17
+select * from cate
+select parent_id from cate where cate_id=6
+update cate set parent_id='6',cate_name='5555',intro='5',cate_id='17'where cate_id=17
+select * from cate
+select *from cate where cate_id=17
+select * from cate
+select parent_id from cate where cate_id=18
+update cate set parent_id='18',cate_name='5555',intro='5',cate_id='17'where cate_id=17
+select * from cate
